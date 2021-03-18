@@ -1,0 +1,29 @@
+java,java
+sql,sql,nosql
+spring,spring
+c#,c#
+unity,unity,unity2d,unity3d
+aws,aws,amazon web services
+jupyter,jupyter,jupyterlab
+azure,azure
+docker,docker
+git,git,github,version control
+kotlin,kotlin
+android development,android studio,android development
+swift,swift
+javascript,javascript
+c,c,c/c++,c++/c
+lua,lua
+unreal engine,unreal engine
+keras,keras
+tensorflow,tensorflow
+pytorch,pytorch
+objective-c,objective c,objective-c
+ruby,ruby
+seaborn,seaborn
+html,html,html5
+css,css,css3
+php,php
+python,python,python3
+spark,spark
+powerbi,powerbi,power-bi
